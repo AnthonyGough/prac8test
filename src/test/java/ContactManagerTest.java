@@ -4,7 +4,6 @@ import com.example.addressbook.model.ContactManager;
 import com.example.addressbook.model.SqliteContactDAO;
 import org.junit.jupiter.api.*;
 
-import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -15,7 +15,9 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public class ContactManagerTest {
 
-
+    /**
+     * test class
+     */
     private ContactManager contactManager;
     private static final String EMPTY_STRING = new String("");
     private static final String NULL_STRING = null;
